@@ -78,6 +78,7 @@ section h3{
     width: 250px;
     float: right;
     border-radius: 5px;
+    clip-path: polygon(50% 0%, 90% 20%, 100% 60%, 75% 100%, 25% 100%, 0% 60%, 10% 20%);
 }
 
 #sobre p.bio{
